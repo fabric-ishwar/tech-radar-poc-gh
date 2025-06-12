@@ -34,7 +34,7 @@
     "marked-highlight": "^2.2.1",
     "next": "15.2.4",
     "postcss-nested": "^7.0.2",
-    "postcss-preset-env": "^10.1.5",
+    "postcss-preset-env": "^10.2.3",
     "prettier": "^3.5.3",
     "react": "^19",
     "react-dom": "^19",
