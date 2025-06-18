@@ -1,4 +1,5 @@
 name: Add Entry to Tech Radar
+description: Request to add an Entry to the Tech Radar.
 title: "[TR Entry]: "
 assignees:
   - copilot
